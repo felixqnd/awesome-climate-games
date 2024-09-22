@@ -1,7 +1,7 @@
 # awesome-climate-games
-🎮 🎲 A wonderful list of resources related to climate and games 
+🎮 🎲 A wonderful list of resources related to climate and games
 
-[WORK IN PROGRESS]
+
 
 
 
@@ -12,6 +12,7 @@
 - [Airminers BootUp](https://bootup.airminers.com/) - 6-week sprint virtual meeting to learn about CDR (Carbon-Dioxide Removal) with peers
 - [ClimateFresk](https://climatefresk.org/world/) - Collaborative workshop will teach you the fundamental science behind climate change and empower you to take action.
 - [ClimateInteractive - En-ROADS Simulation Tool](https://www.climateinteractive.org/en-roads/) - A powerful climate solutions simulation tool that runs in your browser
+-[Work on Climate](https://workonclimate.org/)- Climate resource community
 
 
 
