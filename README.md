@@ -1,10 +1,6 @@
 # awesome-climate-games
 🎮 🎲 A wonderful list of resources related to climate and games
 
-
-
-
-
 ## Climate :cloud_with_lightning_and_rain:
 
 - [Sustainable Pathways](https://sustainablecareerpathways.com/recommended-resources/) - quite comprehensive resource guide to learn about the key topics on everything related to sustainability.
@@ -12,8 +8,7 @@
 - [Airminers BootUp](https://bootup.airminers.com/) - 6-week sprint virtual meeting to learn about CDR (Carbon-Dioxide Removal) with peers
 - [ClimateFresk](https://climatefresk.org/world/) - Collaborative workshop will teach you the fundamental science behind climate change and empower you to take action.
 - [ClimateInteractive - En-ROADS Simulation Tool](https://www.climateinteractive.org/en-roads/) - A powerful climate solutions simulation tool that runs in your browser
--[Work on Climate](https://workonclimate.org/)- Climate resource community
-
+- [Work on Climate](https://workonclimate.org/) - Climate resource community
 
 
 ## Games :video_game:
@@ -27,7 +22,9 @@
 - [GameDev-Resources from Kavex](https://github.com/Kavex/GameDev-Resources) - A wonderful list of Game Development resources, made by Kavex and many open source contributors.
 - [Green Game Jam 2024](https://www.playing4theplanet.org/project/green-game-jam-2024) - Unlike other game jams that build games from scratch, the Green Game Jam supports studios to build activations that focus on an environmental theme into their existing games.
 
+## Podcast :microphone:
 
+- [Doing Our Bit](https://podcasters.spotify.com/pod/show/doing-our-bit/) - a new podcast about making games in the critical decade of climate action
 
 [WORK IN PROGRESS]
 
