@@ -26,8 +26,8 @@
 
 - [Doing Our Bit](https://podcasters.spotify.com/pod/show/doing-our-bit/) - a new podcast about making games in the critical decade of climate action
 
-[WORK IN PROGRESS]
-
 ## Courses
 - [Serious Gaming](https://www.coursera.org/learn/serious-gaming?) - free course on learning how playing games can help us to train people, deal with societal challenges or raise awareness of contemporary social issues
 
+
+[WORK IN PROGRESS]
