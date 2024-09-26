@@ -28,3 +28,6 @@
 
 [WORK IN PROGRESS]
 
+## Courses
+- [Serious Gaming](https://www.coursera.org/learn/serious-gaming?) - free course on learning how playing games can help us to train people, deal with societal challenges or raise awareness of contemporary social issues
+
