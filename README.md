@@ -8,7 +8,10 @@
 - [Airminers BootUp](https://bootup.airminers.com/) - 6-week sprint virtual meeting to learn about CDR (Carbon-Dioxide Removal) with peers
 - [ClimateFresk](https://climatefresk.org/world/) - Collaborative workshop will teach you the fundamental science behind climate change and empower you to take action.
 - [ClimateInteractive - En-ROADS Simulation Tool](https://www.climateinteractive.org/en-roads/) - A powerful climate solutions simulation tool that runs in your browser
-- [Work on Climate](https://workonclimate.org/) - Climate resource community
+- [Work on Climate](https://workonclimate.org/) - Climate community on Slack
+- [Globaia Project](https://globaia.org/projects)-a non-profit organisation, fuses science, art, and stories to deepen planetary understanding.
+- [AskNature](https://asknature.org/) - A web tool to learn from other species'successful strategies and adaptations through environmental changes
+- [Ecograder](https://ecograder.com/) - A website carbon emission caculator, provides advice for procuring a green web host and reducing website-related emissions
 
 
 ## Games :video_game:
