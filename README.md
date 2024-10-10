@@ -31,7 +31,8 @@ Despite our unique career paths, we share a common goal: using the power of game
 
 ## Climate & Tech Jobs:
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Tech job board for fighting climate change, mostly US based opportunities.
-- [Jobs for Sustainability](https://jobsforsustainability.com/)-Job board for sustainabily, global opportunities. 
+- [Jobs for Sustainability](https://jobsforsustainability.com/)-Job board for sustainabily, global opportunities.
+- [Remote Climate Jobs](https://www.remoteclimatejobs.com/)- Remote climate job board,  focused on environmental, sustainability, climate, and green jobs.
 
 ## Podcast :microphone:
 
