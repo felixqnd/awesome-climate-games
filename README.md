@@ -14,9 +14,9 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [ClimateInteractive - En-ROADS Simulation Tool](https://www.climateinteractive.org/en-roads/) - A powerful climate solutions simulation tool that runs in your browser
 - [Work on Climate](https://workonclimate.org/) - Climate community on Slack
 - [Globaia Project](https://globaia.org/projects)-a non-profit organisation, fuses science, art, and stories to deepen planetary understanding.
-- [AskNature](https://asknature.org/) - A web tool to learn from other species'successful strategies and adaptations through environmental changes
+- [AskNature](https://asknature.org/) - A web tool to learn from other species' successful strategies and adaptations through environmental changes
 - [Ecograder](https://ecograder.com/) - A website carbon emission caculator, provides advice for procuring a green web host and reducing website-related emissions
-
+- [GreenGeeks](https://www.greengeeks.com/) - eco-friendly green web hosting provider putting renewable energy back into the grid
 
 ## Games :video_game:
 
@@ -26,13 +26,17 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [SolipComic - GameExpats Story](https://www.instagram.com/solip.comic/) - A short comic story about gamedev expat in Finland. Created by Solip, Doctoral student & game researcher at Aalto University, Finland. 
 - [Green Game Design](https://www.greengamedesign.com/ ) - collection of article and resources about games for green impact.
 - [Games for Good](https://www.games-for-good.com/) - an initative made by Deborah Mensah-Bonsu, inspired by [her TEDxLondon talk](https://www.youtube.com/watch?v=6hceniC3FZw) about games for good
+- [Games for Change](https://www.gamesforchange.org/) - an organisation that puts on events and other programming to advance equity and justice globally 
 - [GameDev-Resources from Kavex](https://github.com/Kavex/GameDev-Resources) - A wonderful list of Game Development resources, made by Kavex and many open source contributors.
 - [Green Game Jam 2024](https://www.playing4theplanet.org/project/green-game-jam-2024) - Unlike other game jams that build games from scratch, the Green Game Jam supports studios to build activations that focus on an environmental theme into their existing games.
+- [Tiltify](https://tiltify.com/explore) - A platform made to make it easier to fundraise via livestream
 
 ## Climate & Tech Jobs:
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Tech job board for fighting climate change, mostly US based opportunities.
-- [Jobs for Sustainability](https://jobsforsustainability.com/)-Job board for sustainabily, global opportunities.
-- [Remote Climate Jobs](https://www.remoteclimatejobs.com/)- Remote climate job board,  focused on environmental, sustainability, climate, and green jobs.
+- [Jobs for Sustainability](https://jobsforsustainability.com/)- Job board for sustainabily, global opportunities.
+- [Remote Climate Jobs](https://www.remoteclimatejobs.com/) - Remote climate job board,  focused on environmental, sustainability, climate, and green jobs.
+- [Game Developer Jobs](https://gamejobs.co/) - Job board for jobs in the gaming industry (not just developers).
+- [the*gamehers](https://thegamehers.com/) - A safe & supportive space for women and femme-identifying gamers to meet, chat, & play.
 
 ## Podcast :microphone:
 
