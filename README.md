@@ -45,4 +45,4 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [Serious Gaming](https://www.coursera.org/learn/serious-gaming?) - free course on learning how playing games can help us to train people, deal with societal challenges or raise awareness of contemporary social issues
 
 
-[WORK IN PROGRESS]
+[WORK IN PROGRESS][Welcome to any suggestions and contribution]
