@@ -30,6 +30,7 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [GameDev-Resources from Kavex](https://github.com/Kavex/GameDev-Resources) - A wonderful list of Game Development resources, made by Kavex and many open source contributors.
 - [Green Game Jam 2024](https://www.playing4theplanet.org/project/green-game-jam-2024) - Unlike other game jams that build games from scratch, the Green Game Jam supports studios to build activations that focus on an environmental theme into their existing games.
 - [IGDA Climate SIG](https://igda.org/sigs/climate/)-The IGDA Climate Special Interest Group that serves to build a safe and inclusive space for game industry professionals who are concerned about climate change.
+- [Sustainable Games Alliance] (https://sustainablegamesalliance.org/) - A non-profit to make the games industry the leader in sustainability by setting ambitious and achievable standards for environmental and social responsibility.
 
 ## Climate & Tech Jobs:
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Tech job board for fighting climate change, mostly US based opportunities.
