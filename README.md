@@ -17,6 +17,7 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [AskNature](https://asknature.org/) - A web tool to learn from other species'successful strategies and adaptations through environmental changes
 - [Ecograder](https://ecograder.com/) - A website carbon emission caculator, provides advice for procuring a green web host and reducing website-related emissions
 - [So you want to work on climate](https://www.canva.com/design/DAGSkgOlRtU/yR7RmrSPm0iLizmPofV9qg/view?utm_content=DAGSkgOlRtU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=GSVdasAT1w#1) - A document on resource, jobs board, reading list for people who want to start working on climate. 
+- [Anticiplay](https://anticiplay.medium.com/) - An NWO Vidi research project • Exploring how games can help imagine & realize sustainable futures • Games For Better Futures & Futures For Better Games
 
 
 ## Games :video_game:
