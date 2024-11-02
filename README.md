@@ -36,6 +36,7 @@ We are wide open to [contributions](https://github.com/enliktjioe/awesome-climat
 - [Sustainable Games Alliance](https://sustainablegamesalliance.org/) - A non-profit to make the games industry the leader in sustainability by setting ambitious and achievable standards for environmental and social responsibility.
 - [Midgard](https://www.midgard.earth/) - Making the video game industry sustainable, one game at a time. Midgard gives gamers access to a curated list of the carbon accountable games on the market.
 - [Green Games](https://greeningames.eu/)-EU funded research project investigating environmental issues related to game development
+- [Game Studies by New Books Network](https://newbooksnetwork.com/category/arts-letters/game-studies) - Podcast interviews with scholars of games and gaming about their new books
 
 ## Climate & Tech Jobs:
 - [Tech Jobs for Good](https://techjobsforgood.com/) - Tech job board for fighting climate change, mostly US based opportunities.
