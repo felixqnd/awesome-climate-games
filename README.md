@@ -5,6 +5,8 @@ We’re two friends who met through *Work on Climate* organization, connecting f
 
 Despite our unique career paths, we share a common goal: using the power of games to make a positive impact on climate and the environment. This page is our way of sharing the tools, insights, and resources we discover on our journey. Whether you’re new to climate games or already involved, we hope you’ll find something valuable here. 
 
+We are wide open to [contributions](https://github.com/pangeo-data/awesome-open-climate-science/blob/master/contributing.md) of course! Don't hesitate to add your awesome resources related tp climate games by making a [pull request].
+
 ## Climate :cloud_with_lightning_and_rain:
 
 - [Sustainable Pathways](https://sustainablecareerpathways.com/recommended-resources/) - quite comprehensive resource guide to learn about the key topics on everything related to sustainability.
@@ -49,4 +51,7 @@ Despite our unique career paths, we share a common goal: using the power of game
 - [Serious Gaming](https://www.coursera.org/learn/serious-gaming?) - free course on learning how playing games can help us to train people, deal with societal challenges or raise awareness of contemporary social issues
 
 
-[WORK IN PROGRESS][Welcome to any suggestions and contribution]
+
+## How to Contribute
+
+Contributions welcome! Read the [contribution guidelines](https://github.com/pangeo-data/awesome-open-climate-science/blob/master/contributing.md) first
